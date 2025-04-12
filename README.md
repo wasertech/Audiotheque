@@ -103,4 +103,4 @@ Les contributions sont les bienvenues ! Si vous trouvez un bug ou souhaitez ajou
 
 ## Licence
 
-Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'informations.
+Ce projet est sous licence MIT. Consultez le fichier [`LICENSE`](LICENSE) pour plus d'informations.
