@@ -2,6 +2,5 @@
 
 ## Requière
 
-    - `Chromaprint` correctement installé
-    - Une clé API [AcoustID](https://acoustid.org/)
-
+- `Chromaprint` correctement installé
+- Une clé API [AcoustID](https://acoustid.org/)
