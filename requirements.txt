@@ -1,0 +1,7 @@
+questionary
+mutagen
+pyacoustid
+musicbrainzngs
+requests
+standard-aifc
+standard-sunau
